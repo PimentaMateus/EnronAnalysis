@@ -25,6 +25,9 @@ __pycache__/
 # C extensions
 *.so
 
+.vscode 
+Datasets/emails.csv
+
 # Distribution / packaging
 .Python
 build/
